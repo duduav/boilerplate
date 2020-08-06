@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Follow the following commands
 
-- Clone this repo using `git clone --depth=1 https://github.com/kamrulislam/ng9-ngrx-material-boilerplate.git <PROJECT_NAME>`
+
 - Go to the repository `cd PROJECT_NAME`
 - Remove exsiting git history `rm -fr .git/`
 - Init git `git init`
